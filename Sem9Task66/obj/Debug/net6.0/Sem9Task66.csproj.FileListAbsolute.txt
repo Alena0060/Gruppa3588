@@ -1,0 +1,15 @@
+C:\GB\GR3588\Gruppa3588\Sem9Task66\bin\Debug\net6.0\Sem9Task66.exe
+C:\GB\GR3588\Gruppa3588\Sem9Task66\bin\Debug\net6.0\Sem9Task66.deps.json
+C:\GB\GR3588\Gruppa3588\Sem9Task66\bin\Debug\net6.0\Sem9Task66.runtimeconfig.json
+C:\GB\GR3588\Gruppa3588\Sem9Task66\bin\Debug\net6.0\Sem9Task66.dll
+C:\GB\GR3588\Gruppa3588\Sem9Task66\bin\Debug\net6.0\Sem9Task66.pdb
+C:\GB\GR3588\Gruppa3588\Sem9Task66\obj\Debug\net6.0\Sem9Task66.csproj.AssemblyReference.cache
+C:\GB\GR3588\Gruppa3588\Sem9Task66\obj\Debug\net6.0\Sem9Task66.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\GR3588\Gruppa3588\Sem9Task66\obj\Debug\net6.0\Sem9Task66.AssemblyInfoInputs.cache
+C:\GB\GR3588\Gruppa3588\Sem9Task66\obj\Debug\net6.0\Sem9Task66.AssemblyInfo.cs
+C:\GB\GR3588\Gruppa3588\Sem9Task66\obj\Debug\net6.0\Sem9Task66.csproj.CoreCompileInputs.cache
+C:\GB\GR3588\Gruppa3588\Sem9Task66\obj\Debug\net6.0\Sem9Task66.dll
+C:\GB\GR3588\Gruppa3588\Sem9Task66\obj\Debug\net6.0\refint\Sem9Task66.dll
+C:\GB\GR3588\Gruppa3588\Sem9Task66\obj\Debug\net6.0\Sem9Task66.pdb
+C:\GB\GR3588\Gruppa3588\Sem9Task66\obj\Debug\net6.0\Sem9Task66.genruntimeconfig.cache
+C:\GB\GR3588\Gruppa3588\Sem9Task66\obj\Debug\net6.0\ref\Sem9Task66.dll
